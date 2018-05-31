@@ -17,6 +17,7 @@ A line bot that help rider to determine the safest route.
 ![recommend route](https://github.com/zodius/drive_helper/raw/master/photo6086802913335814240.jpg)
 ## Line links
 ![QR code](https://github.com/zodius/drive_helper/raw/master/o_-0ijE68q.png)
+Line id: @cva3874q
 
 ## Future works
 * 避開公車行駛路段
