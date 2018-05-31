@@ -19,4 +19,5 @@ A line bot that help rider to determine the safest route.
 ![QR code](https://github.com/zodius/drive_helper/raw/master/o_-0ijE68q.png)
 
 ## Future works
-避開公車行駛路段
+* 避開公車行駛路段
+* 顯示擁擠程度
